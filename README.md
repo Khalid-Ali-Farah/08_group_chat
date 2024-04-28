@@ -1,16 +1,17 @@
-# flash_chat
+# Group Chat App
 
-A new Flutter project.
 
-## Getting Started
+Group Chat App is
 
-This project is a starting point for a Flutter application.
+## Group Chat App Preview
 
-A few resources to get you started if this is your first Flutter project:
+![Group Chat App](BMI.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## Installation
+
+To install Group Chat App, you need to have Flutter installed on your system.
+
