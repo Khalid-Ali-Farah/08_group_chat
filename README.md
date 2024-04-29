@@ -1,11 +1,10 @@
 # Group Chat App
 
+Group Chat App
 
-Group Chat App is
+## MyCard Preview
 
-## Group Chat App Preview
-
-![Group Chat App](BMI.gif)
+![Group Chat App](group_chat.gif)
 
 
 
@@ -14,4 +13,6 @@ Group Chat App is
 ## Installation
 
 To install Group Chat App, you need to have Flutter installed on your system.
+
+
 
