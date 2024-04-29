@@ -1,6 +1,6 @@
 # Group Chat App
 
-Group Chat App
+A chat app that is up to date and allows users to register and log in.
 
 ## MyCard Preview
 
